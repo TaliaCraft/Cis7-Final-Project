@@ -2,7 +2,7 @@
 
 
 ## Vigenère Cipher Program
-Author: Talia Craft
+Author: Talia Craft  
 Date Published: Dec 7, 2024
 
 ## General Description
